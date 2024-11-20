@@ -8,8 +8,8 @@ Me encanta explorar y aprender nuevas tecnologías, así como resolver problemas
 
 - **Frontend**: HTML, CSS, JavaScript, React, NextUI, Angular
 - **Backend**: Node.js, Express, PHP, MySQL, Java
-- **Database**: Oracle, MySQL, 
-- **Otros**: Git
+- **Database**: Oracle, MySQL
+- **Otros**: Git, Bitbucket
 
 ## 📫 Repositorios
 
