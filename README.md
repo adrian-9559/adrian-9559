@@ -10,7 +10,7 @@ Puedes visitar mi porfolio en [adrian9559.site](https://adrian9559.site/).
 
 ## 🔭 Habilidades
 
-- **Frontend**: HTML, CSS, JavaScript, React, NextUI, Angular
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, NextUI, Angular
 - **Backend**: Node.js, Express, PHP, Java
 - **Database**: Oracle, MySQL
 - **Otros**: Git, Bitbucket
