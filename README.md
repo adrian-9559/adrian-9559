@@ -15,14 +15,9 @@
 
 ###
 
-<div align="center">
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">¡Hola a todos! 👋</h1>
-<p align="center">Bienvenidos a mi perfil. Aquí encontrarás información sobre mis proyectos, habilidades y cómo conectar conmigo. ¡Gracias por visitar!</p>
+<p align="center">🎉 Bienvenidos a mi perfil de GitHub. Aquí podrás explorar mis proyectos, conocer mis habilidades y descubrir cómo podemos colaborar. ¡Gracias por pasarte! 🚀</p>
+<p align="center">Si tienes alguna idea, proyecto o simplemente quieres conectar, no dudes en contactarme. ¡Estoy emocionado por construir cosas increíbles juntos! 💡</p>
 
 <div align="center">
 	<h2>🌐 Visita mi porfolio en <a href="https://adrian9559.site/">adrian9559.site</a></h2>
