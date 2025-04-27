@@ -130,8 +130,9 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos y cons
 
 ###
 
+<h3 align="left">🔥   Mis estadisticas :</h3>
+
 <div align="center">
-	<h3>📊 Mis estadísticas</h3>
 	<table>
 		<tr>
 			<td>
