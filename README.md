@@ -56,7 +56,6 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos y cons
 ###
 
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
-
 <div align="center">
 	<table>
 		<tr>
@@ -117,6 +116,10 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos y cons
 			<td align="center">
 				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 				<p>Git</p>
+			</td>
+			<td align="center">
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket logo" />
+				<p>Bitbucket</p>
 			</td>
 			<td align="center">
 				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
