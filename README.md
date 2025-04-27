@@ -1,47 +1,117 @@
-# Hola, soy Adrian 👋
-
-Soy un desarrollador apasionado por la creación de aplicaciones web y siempre en busca de nuevas formas de mejorar mis habilidades de desarrollo. Con un título de **FP de Grado Superior en Aplicaciones Web** y un **Grado Medio en Sistemas Microinformáticos y Redes**, tengo una sólida base tanto en **backend** como en **frontend**.
-
-Me encanta explorar y aprender nuevas tecnologías, así como resolver problemas complejos para crear soluciones eficientes y efectivas. Mi enfoque está en construir aplicaciones web que sean fáciles de usar, escalables y mantenibles.
 
 ## 👨🏻‍💻 Porfolio
 
 Puedes visitar mi porfolio en [adrian9559.site](https://adrian9559.site/).
 
-## 🔭 Habilidades
+<div align="center">
+	<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, NextUI, Angular
-- **Backend**: Node.js, Express, PHP, Java
-- **Database**: Oracle, MySQL
-- **Otros**: Git, Bitbucket
+###
 
-## 📫 Repositorios
+<div align="center">
+	<a href="https://www.linkedin.com/in/adrián-escribano-pérez">
+		<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+	</a>
+	<a href="mailto:adrian.escribano3@gmail.com">
+		<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+	</a>
+</div>
 
-En este perfil, podrás encontrar una variedad de **proyectos y componentes reutilizables** para todo tipo de aplicaciones web. Ya sea que busques un **componente sencillo** para mejorar la interfaz de usuario o una **solución más compleja** para integrar funcionalidades avanzadas, ¡aquí encontrarás algo útil!
+###
 
-- **Componentes reutilizables**: Componentes modulares y flexibles para cualquier tipo de proyecto.
-- **Proyectos completos**: Aplicaciones web funcionales, desde el backend hasta el frontend, listos para ser utilizados en tus propios proyectos.
+<div align="center">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-## 📬 Conecta conmigo
+###
 
-Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme:
+<h1 align="center">¡Hola a todos! 👋</h1>
+<p align="center">Bienvenidos a mi perfil. Aquí encontrarás información sobre mis proyectos, habilidades y cómo conectar conmigo. ¡Gracias por visitar!</p>
 
-- **Correo electrónico**: adrian.escribano3@gmail.com
-- **LinkedIn**: [Mi perfil de LinkedIn](https://www.linkedin.com/in/adrián-escribano-pérez)
+<div align="center">
+	<h2>🌐 Visita mi porfolio en <a href="https://adrian9559.site/">adrian9559.site</a></h2>
+</div>
 
-¡Gracias por visitar mi perfil y explorar mis proyectos!
+### 👨‍💻 Sobre mí
 
-<!--
-**adrian-9559/adrian-9559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un desarrollador apasionado por la tecnología y la programación, con experiencia en el diseño y desarrollo de aplicaciones web completas, abarcando tanto el **frontend** como el **backend**. Mi enfoque principal es crear soluciones innovadoras, escalables y eficientes que resuelvan problemas reales y mejoren la experiencia del usuario.
 
-Here are some ideas to get you started:
+Con una sólida formación académica y un compromiso constante con el aprendizaje, disfruto explorando nuevas tecnologías y metodologías para mantenerme a la vanguardia en un sector en constante evolución. Mi objetivo es no solo crecer profesionalmente, sino también contribuir al desarrollo de proyectos que marquen la diferencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Siempre estoy abierto a colaborar en iniciativas desafiantes y emocionantes. ¡Hablemos y construyamos juntos el futuro de la tecnología!
+
+- 🎓 **Formación Académica**: 
+	- **FP de Grado Superior en Desarrollo de Aplicaciones Web**.
+	- **Grado Medio en Sistemas Microinformáticos y Redes**.
+	Estas titulaciones me han proporcionado una base sólida en desarrollo de software y administración de sistemas.
+
+- 📚 **Actualmente cursando**: 
+	- Estoy estudiando en **42 Madrid de Fundación Telefónica**, un entorno educativo basado en proyectos prácticos y colaborativos que fomenta el aprendizaje autónomo y el trabajo en equipo.
+
+- 🌱 **En constante aprendizaje**: 
+	- Actualmente estoy profundizando en **C** y **Angular**, explorando nuevas herramientas y metodologías para optimizar el desarrollo de aplicaciones modernas.
+
+- ⚡ **Intereses personales**: 
+	- En mi tiempo libre, disfruto resolviendo retos de programación, contribuyendo a proyectos de código abierto y explorando nuevas tecnologías para mantenerme actualizado en un campo en constante evolución. 
+	- Además, soy un apasionado del deporte, especialmente del pádel y el senderismo, actividades que no solo me ayudan a mantenerme activo, sino que también me permiten desconectar y disfrutar de la naturaleza. Estas experiencias me inspiran a abordar los desafíos con una mentalidad fresca y creativa.
+
+Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos y construyamos algo increíble juntos!
+
+###
+
+<h3 align="left">🛠 Lenguajes y herramientas</h3>
+
+<div align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+	<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
