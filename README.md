@@ -130,9 +130,13 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos y cons
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Mis estadisticas :</h3>
 
 ###
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=adrian-9559&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+	<img src="https://streak-stats.demolab.com?user=adrian-9559&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Gráfico de rachas" />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=adrian-9559&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="220" alt="Estadísticas de GitHub" />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-9559&layout=compact&theme=dark&hide_border=false&border_radius=5" height="220" alt="Lenguajes más usados" />
 </div>
