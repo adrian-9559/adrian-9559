@@ -136,7 +136,7 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos y cons
 	<table>
 		<tr>
 			<td>
-  				<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian-9559&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  				<img src="https://streak-stats.demolab.com?user=adrian-9559&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="Gráfico de rachas" />
 			</td>
 			<td>
 				<img src="https://github-readme-stats.vercel.app/api?username=adrian-9559&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="150" alt="Estadísticas de GitHub" />
